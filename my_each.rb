@@ -5,3 +5,8 @@ def my_each(array)
     i = i + 1
   end
 end
+ array
+  else
+    puts "Hey! No block was given!"
+  end
+end
